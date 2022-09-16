@@ -1,0 +1,187 @@
+{
+    "uri": "spotify:user:eivindaj",
+    "name": "Eivind Heivind Johansen",
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t31.18172-1/19800920_10159064375610201_5264742357518517024_o.jpg?stp=dst-jpg_p320x320&_nc_cat=107&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=kHs2G6A-m3sAX8eWuiR&_nc_ht=scontent-iad3-2.xx&edm=AP4hL3IEAAAA&oh=00_AT_v2YgLp46QzL6nheqD9zMy-1yPqX3vhL2faZvYbk7zpA&oe=6333F8B8",
+    "followers_count": 4,
+    "following_count": 24,
+    "recently_played_artists": [
+        {
+            "uri": "spotify:artist:1km0R7wy712AzLkA1WjKET",
+            "name": "Biffy Clyro",
+            "image_url": "https://i.scdn.co/image/ab676161000051745a8702315c7ddff8eb7b69ba",
+            "followers_count": 688710
+        },
+        {
+            "uri": "spotify:artist:5PN2aHIvLEM98XIorsPMhE",
+            "name": "Kim Carnes",
+            "image_url": "https://i.scdn.co/image/ab676161000051741ba0c0b42be17d19a8d67d15",
+            "followers_count": 249760
+        },
+        {
+            "uri": "spotify:artist:4mxWe1mtYIYfP040G38yvS",
+            "name": "Alan Jackson",
+            "image_url": "https://i.scdn.co/image/75dfc9856729232143ce6edcb7920381db30399f",
+            "followers_count": 2047686
+        },
+        {
+            "uri": "spotify:artist:7bPU7cvfoD20ixGD9Qnqki",
+            "name": "Stealers Wheel",
+            "image_url": "https://i.scdn.co/image/42a9ee8c60be7760036b3155899228770a177147",
+            "followers_count": 125200
+        },
+        {
+            "uri": "spotify:artist:3IYUhFvPQItj6xySrBmZkd",
+            "name": "Creedence Clearwater Revival",
+            "image_url": "https://i.scdn.co/image/ab67616100005174d2e2b04b7ba5d60b72f54506",
+            "followers_count": 5247849
+        },
+        {
+            "uri": "spotify:artist:3Y3xIwWyq5wnNHPp5gPjOW",
+            "name": "Kenny Loggins",
+            "image_url": "https://i.scdn.co/image/ab67616100005174e5ade0d346536449c7a75b48",
+            "followers_count": 882643
+        },
+        {
+            "uri": "spotify:artist:3vMWY1bUrmYoSoEWLiQWOZ",
+            "name": "Glenn Frey",
+            "image_url": "https://i.scdn.co/image/ab676161000051741e869d920d97389beb490b43",
+            "followers_count": 497778
+        },
+        {
+            "uri": "spotify:artist:7jy3rLJdDQY21OgRLCZ9sD",
+            "name": "Foo Fighters",
+            "image_url": "https://i.scdn.co/image/ab676161000051749a43b87b50cd3d03544bb3e5",
+            "followers_count": 10175361
+        },
+        {
+            "uri": "spotify:artist:77tT1kLj6mCWtFNqiOmP9H",
+            "name": "Daryl Hall & John Oates",
+            "image_url": "https://i.scdn.co/image/ab67616100005174ae81417d966e209b735b1160",
+            "followers_count": 1884334
+        },
+        {
+            "uri": "spotify:artist:3VNITwohbvU5Wuy5PC6dsI",
+            "name": "Kool & The Gang",
+            "image_url": "https://i.scdn.co/image/ab676161000051740d05117424a0d1f510664be1",
+            "followers_count": 2059434
+        },
+        {
+            "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d",
+            "name": "Queen",
+            "image_url": "https://i.scdn.co/image/c06971e9ff81696699b829484e3be165f4e64368",
+            "followers_count": 43121273
+        },
+        {
+            "uri": "spotify:artist:3gd8FJtBJtkRxdfbTu19U2",
+            "name": "Mumford & Sons",
+            "image_url": "https://i.scdn.co/image/ab6761610000517463065c48a5e377efda61f229",
+            "followers_count": 6344044
+        },
+        {
+            "uri": "spotify:artist:0hEurMDQu99nJRq8pTxO14",
+            "name": "John Mayer",
+            "image_url": "https://i.scdn.co/image/ab67616100005174265ef5547ecff4dabd6352bf",
+            "followers_count": 5610411
+        },
+        {
+            "uri": "spotify:artist:7xF6Psrf6yNOBkB9jpMRa0",
+            "name": "Will Ferrell",
+            "image_url": "https://i.scdn.co/image/ab67616d00001e028dbf730f3c65efd612756d6c",
+            "followers_count": 12514
+        },
+        {
+            "uri": "spotify:artist:5EvFsr3kj42KNv97ZEnqij",
+            "name": "Shaggy",
+            "image_url": "https://i.scdn.co/image/ab676161000051744f49b447350fa63936242776",
+            "followers_count": 1786442
+        },
+        {
+            "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV",
+            "name": "ABBA",
+            "image_url": "https://i.scdn.co/image/ab67616100005174118de0c58b11e1fd54b66640",
+            "followers_count": 8670476
+        },
+        {
+            "uri": "spotify:artist:5gsErkGsLeCYCSK0Pxj01N",
+            "name": "deLillos",
+            "image_url": "https://i.scdn.co/image/ab67616100005174397928b7b684ed92079e0e6a",
+            "followers_count": 29026
+        },
+        {
+            "uri": "spotify:artist:3xhyJwgAUGZSE162fJXRJY",
+            "name": "Di Derre",
+            "image_url": "https://i.scdn.co/image/ab676161000051740459d2e72bebc5aa47dc3878",
+            "followers_count": 25417
+        },
+        {
+            "uri": "spotify:artist:3hozsZ9hqNq7CoBGYNlFTz",
+            "name": "OK Go",
+            "image_url": "https://i.scdn.co/image/30a9f3d5c164a7cf089f74afa412493451c6cbe2",
+            "followers_count": 484949
+        },
+        {
+            "uri": "spotify:artist:3ngKsDXZAssmljeXCvEgOe",
+            "name": "Eagle-Eye Cherry",
+            "image_url": "https://i.scdn.co/image/ab676161000051749e0ca4a2881766ad646d449d",
+            "followers_count": 156289
+        }
+    ],
+    "public_playlists": [
+        {
+            "uri": "spotify:playlist:44T705kOQs5Sx3Lo551krT",
+            "name": "Quiz",
+            "image_url": "spotify:mosaic:ab67616d00001e020b619fbc9f587d1ac28e8d33:ab67616d00001e024b343c3c00069b1b2b318dae:ab67616d00001e029e26f06f82a65f3ceb6c259c:ab67616d00001e02f3a2d7f692fcad25284c5f1e"
+        },
+        {
+            "uri": "spotify:playlist:7H8lGPgLuWlBIG6bwbjnD9",
+            "name": "Allsang",
+            "image_url": "spotify:mosaic:ab67616d00001e025dfc4658f8c29a584c31143a:ab67616d00001e0261aa979815fa7d251165ae3a:ab67616d00001e0297ad76ce0758f44d17feeae6:ab67616d00001e02eebd253ade962d53857b0709"
+        },
+        {
+            "uri": "spotify:playlist:5FFNSjIKw9K0O31xtJt4oA",
+            "name": "L\u00f8p",
+            "image_url": "spotify:mosaic:ab67616d00001e027af5fdc5ef048a68db62b85f:ab67616d00001e028e3ab1cbd76d15dc64450a13:ab67616d00001e02c6bfaf942ed981d5c4c922e4:ab67616d00001e02d6735b754406b20aac362222"
+        },
+        {
+            "uri": "spotify:playlist:2gw1gJdwyZuRQEwY7tfsQI",
+            "name": "Afterski 2019",
+            "image_url": "spotify:mosaic:ab67616d00001e02073127f467d8961895fc76cf:ab67616d00001e020a85c2092e65b988500a3d08:ab67616d00001e02234338e6168b1b69b356e7b5:ab67616d00001e022d88191b01dd89256a6fcd97"
+        },
+        {
+            "uri": "spotify:playlist:3qDuPbdb6CV0EDsRzXMF6U",
+            "name": "Gode minner",
+            "image_url": "spotify:mosaic:ab67616d00001e02119a9218ed0f7398091115fd:ab67616d00001e0242cb727373959066111f7d75:ab67616d00001e0262cb66553dfbab8416a60b79:ab67616d00001e028ea9cc9887691605829c43b0"
+        },
+        {
+            "uri": "spotify:playlist:13jajKA4FXQDgSbJoXjgIT",
+            "name": "Rap",
+            "image_url": "spotify:image:ab67616d00001e02bf25a58f1dea56daedd6a0c7"
+        },
+        {
+            "uri": "spotify:playlist:6qenqD7xwkyQSPdaLDjCJy",
+            "name": "Julebord",
+            "image_url": "spotify:mosaic:ab67616d00001e02056e90910cbaf5c5b892aeba:ab67616d00001e0242e2ed5aeaf47d5f97f002d6:ab67616d00001e026bc43f66fddd317e546a36ca:ab67616d00001e02cfc0369fca487d12600962ec",
+            "followers_count": 2
+        },
+        {
+            "uri": "spotify:playlist:41jkYoubsMLgN3aUSwNguT",
+            "name": "styrketrening \ud83d\udcaa\ud83c\udffb\ud83d\udcaa\ud83c\udffb",
+            "image_url": "spotify:mosaic:ab67616d00001e020b30436953c521c87eb82c75:ab67616d00001e0219d85a472f328a6ed9b704cf:ab67616d00001e025a41b6c530b167ffba6a92f5:ab67616d00001e02d54201bf6f95ffc1b6b1f546"
+        },
+        {
+            "uri": "spotify:playlist:3My9i28vkk0DWUzTsb723Y",
+            "name": "good old times",
+            "image_url": "spotify:mosaic:ab67616d00001e0254be522e5e1814efa54a31b3:ab67616d00001e025964a401f50c1bef15135ff5:ab67616d00001e0263facc42e4a35eb3aa182b59:ab67616d00001e02641cefb6b8d4d3dbd9601213",
+            "followers_count": 1
+        },
+        {
+            "uri": "spotify:playlist:2gM7p0zo9WukUI2GvbrxGx",
+            "name": "party",
+            "image_url": "spotify:mosaic:ab67616d00001e026cc9441f366f82803e48ae5c:ab67616d00001e027da67659ed62962324272c30:ab67616d00001e02d8559d0280ffe2a2af6dacdf:ab67616d00001e02f634ce4f69fc4a7113d35217",
+            "followers_count": 1
+        }
+    ],
+    "total_public_playlists_count": 40,
+    "color": 5282805,
+    "user_created_show": []
+}

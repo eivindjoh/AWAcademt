@@ -1,0 +1,81 @@
+{
+    "co2e": 119279.076889534,
+    "co2e_unit": "kg",
+    "legs": [
+        {
+            "co2e": 1074.58627828409,
+            "co2e_unit": "kg",
+            "co2e_calculation_method": "ar4",
+            "co2e_calculation_origin": "source",
+            "emission_factor": {
+                "activity_id": "passenger_flight-route_type_outside_uk-aircraft_type_na-distance_na-class_business-rf_included-distance_uplift_included",
+                "uuid": "26c5a7a5-95f1-43d1-b4c9-76d30119ac76",
+                "id": "passenger_flight-route_type_outside_uk-aircraft_type_na-distance_na-class_business-rf_included-distance_uplift_included",
+                "access_type": "public",
+                "source": "BEIS",
+                "year": "2022",
+                "region": "GLOBAL",
+                "category": "Air Travel",
+                "lca_activity": "fuel_combustion",
+                "data_quality_flags": []
+            },
+            "constituent_gases": {
+                "co2e_total": 1074.58627828409,
+                "co2e_other": null,
+                "co2": 1069.2371937964201,
+                "ch4": 0.0010540067956,
+                "n2o": 0.01786541518542
+            }
+        },
+        {
+            "co2e": 10745.8627828409,
+            "co2e_unit": "kg",
+            "co2e_calculation_method": "ar4",
+            "co2e_calculation_origin": "source",
+            "emission_factor": {
+                "activity_id": "passenger_flight-route_type_outside_uk-aircraft_type_na-distance_na-class_business-rf_included-distance_uplift_included",
+                "uuid": "26c5a7a5-95f1-43d1-b4c9-76d30119ac76",
+                "id": "passenger_flight-route_type_outside_uk-aircraft_type_na-distance_na-class_business-rf_included-distance_uplift_included",
+                "access_type": "public",
+                "source": "BEIS",
+                "year": "2022",
+                "region": "GLOBAL",
+                "category": "Air Travel",
+                "lca_activity": "fuel_combustion",
+                "data_quality_flags": []
+            },
+            "constituent_gases": {
+                "co2e_total": 10745.8627828409,
+                "co2e_other": null,
+                "co2": 10692.371937964199,
+                "ch4": 0.010540067956,
+                "n2o": 0.17865415185420003
+            }
+        },
+        {
+            "co2e": 107458.62782840901,
+            "co2e_unit": "kg",
+            "co2e_calculation_method": "ar4",
+            "co2e_calculation_origin": "source",
+            "emission_factor": {
+                "activity_id": "passenger_flight-route_type_outside_uk-aircraft_type_na-distance_na-class_business-rf_included-distance_uplift_included",
+                "uuid": "26c5a7a5-95f1-43d1-b4c9-76d30119ac76",
+                "id": "passenger_flight-route_type_outside_uk-aircraft_type_na-distance_na-class_business-rf_included-distance_uplift_included",
+                "access_type": "public",
+                "source": "BEIS",
+                "year": "2022",
+                "region": "GLOBAL",
+                "category": "Air Travel",
+                "lca_activity": "fuel_combustion",
+                "data_quality_flags": []
+            },
+            "constituent_gases": {
+                "co2e_total": 107458.62782840901,
+                "co2e_other": null,
+                "co2": 106923.719379642,
+                "ch4": 0.10540067956,
+                "n2o": 1.7865415185420002
+            }
+        }
+    ]
+}

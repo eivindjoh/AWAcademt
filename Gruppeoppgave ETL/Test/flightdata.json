@@ -1,0 +1,1841 @@
+{
+    "airport": {
+        "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "@xsi:noNamespaceSchemaLocation": "http://flydata.avinor.no/XmlFeed.xsd",
+        "@name": "OSL",
+        "flights": {
+            "@lastUpdate": "2022-08-15T13:31:17Z",
+            "flight": [
+                {
+                    "@uniqueID": "10835045",
+                    "airline": "DK",
+                    "flight_id": "DK808",
+                    "dom_int": "I",
+                    "schedule_time": "2022-08-09T16:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "AYT",
+                    "check_in": "10"
+                },
+                {
+                    "@uniqueID": "10915768",
+                    "airline": "KL",
+                    "flight_id": "KL1150",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-10T17:15:00Z",
+                    "arr_dep": "D",
+                    "airport": "AMS",
+                    "check_in": "1",
+                    "gate": "D11",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-10T17:14:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10918628",
+                    "airline": "DY",
+                    "flight_id": "DY392",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-11T05:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "OSL"
+                },
+                {
+                    "@uniqueID": "10918731",
+                    "airline": "DY",
+                    "flight_id": "DY360",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-11T06:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "OSL"
+                },
+                {
+                    "@uniqueID": "10916510",
+                    "airline": "KL",
+                    "flight_id": "KL1150",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-13T17:15:00Z",
+                    "arr_dep": "D",
+                    "airport": "AMS",
+                    "check_in": "1",
+                    "gate": "E11",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-13T17:27:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10916511",
+                    "airline": "KL",
+                    "flight_id": "KL1150",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-14T17:15:00Z",
+                    "arr_dep": "D",
+                    "airport": "AMS",
+                    "check_in": "1",
+                    "gate": "E9",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-14T17:34:00Z"
+                    },
+                    "delayed": "Y"
+                },
+                {
+                    "@uniqueID": "10849413",
+                    "airline": "FI",
+                    "flight_id": "FI319",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T11:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "KEF",
+                    "check_in": "1 2/3",
+                    "gate": "D10",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T11:59:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10850125",
+                    "airline": "DY",
+                    "flight_id": "DY940",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T11:50:00Z",
+                    "arr_dep": "D",
+                    "airport": "CPH",
+                    "check_in": "1 2/3",
+                    "gate": "D2",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T11:55:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10849267",
+                    "airline": "SK",
+                    "flight_id": "SK215",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T12:05:00Z",
+                    "arr_dep": "D",
+                    "airport": "KRS",
+                    "check_in": "1 2/3",
+                    "gate": "A2",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T12:09:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10849215",
+                    "airline": "BT",
+                    "flight_id": "BT514",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T12:05:00Z",
+                    "arr_dep": "D",
+                    "airport": "TMP",
+                    "check_in": "4",
+                    "gate": "D8",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T11:56:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10850927",
+                    "airline": "OS",
+                    "flight_id": "OS336",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T12:20:00Z",
+                    "arr_dep": "D",
+                    "airport": "VIE",
+                    "check_in": "1 2/3",
+                    "gate": "E9",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T12:36:00Z"
+                    },
+                    "delayed": "Y"
+                },
+                {
+                    "@uniqueID": "10849206",
+                    "airline": "SK",
+                    "flight_id": "SK4027",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T12:20:00Z",
+                    "arr_dep": "D",
+                    "airport": "SVG",
+                    "check_in": "1 2/3",
+                    "gate": "A24",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T12:23:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10849615",
+                    "airline": "FS",
+                    "flight_id": "FS1202",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T12:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "AGP",
+                    "check_in": "1 2/3",
+                    "gate": "D5",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T12:51:00Z"
+                    },
+                    "delayed": "Y"
+                },
+                {
+                    "@uniqueID": "10849895",
+                    "airline": "SK",
+                    "flight_id": "SK7387",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T12:35:00Z",
+                    "arr_dep": "D",
+                    "airport": "PVK",
+                    "check_in": "10",
+                    "gate": "E2",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T12:39:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10850150",
+                    "airline": "DY",
+                    "flight_id": "DY994",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T12:40:00Z",
+                    "arr_dep": "D",
+                    "airport": "BLL",
+                    "check_in": "1 2/3",
+                    "gate": "D6",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T12:35:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10850053",
+                    "airline": "SK",
+                    "flight_id": "SK354",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T12:40:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3",
+                    "gate": "A4",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T12:41:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10849216",
+                    "airline": "WF",
+                    "flight_id": "WF173",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T12:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "HOV",
+                    "check_in": "5",
+                    "gate": "A27",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T12:46:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10850457",
+                    "airline": "SK",
+                    "flight_id": "SK393",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T12:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "BDU",
+                    "check_in": "1 2/3",
+                    "gate": "A6",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T12:48:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10849316",
+                    "airline": "WF",
+                    "flight_id": "WF191",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T12:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "FDE",
+                    "check_in": "5",
+                    "gate": "A26",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T12:42:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10850016",
+                    "airline": "DY",
+                    "flight_id": "DY616",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T12:50:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "check_in": "1 2/3",
+                    "gate": "A12",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T12:44:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10850119",
+                    "airline": "DY",
+                    "flight_id": "DY816",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T13:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "ARN",
+                    "check_in": "1 2/3",
+                    "gate": "D11",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T12:58:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10849823",
+                    "airline": "DY",
+                    "flight_id": "DY378",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T13:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "TOS",
+                    "check_in": "1 2/3",
+                    "gate": "A10",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T13:05:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10849934",
+                    "airline": "DY",
+                    "flight_id": "DY536",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T13:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "SVG",
+                    "check_in": "1 2/3",
+                    "gate": "C2",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T13:27:00Z"
+                    },
+                    "delayed": "Y"
+                },
+                {
+                    "@uniqueID": "10850835",
+                    "airline": "DY",
+                    "flight_id": "DY1804",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T13:05:00Z",
+                    "arr_dep": "D",
+                    "airport": "AGP",
+                    "check_in": "1 2/3",
+                    "gate": "D8",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T13:17:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10850532",
+                    "airline": "SK",
+                    "flight_id": "SK1471",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T13:10:00Z",
+                    "arr_dep": "D",
+                    "airport": "CPH",
+                    "check_in": "1 2/3",
+                    "gate": "E13",
+                    "status": {
+                        "@code": "D",
+                        "@time": "2022-08-15T13:18:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10849793",
+                    "airline": "DY",
+                    "flight_id": "DY346",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T13:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "BOO",
+                    "check_in": "1 2/3",
+                    "gate": "C7"
+                },
+                {
+                    "@uniqueID": "10850681",
+                    "airline": "SK",
+                    "flight_id": "SK4116",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T13:35:00Z",
+                    "arr_dep": "D",
+                    "airport": "BOO",
+                    "check_in": "1 2/3",
+                    "gate": "A8"
+                },
+                {
+                    "@uniqueID": "10849259",
+                    "airline": "SK",
+                    "flight_id": "SK271",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T13:35:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "check_in": "1 2/3",
+                    "gate": "A2"
+                },
+                {
+                    "@uniqueID": "10849233",
+                    "airline": "D8",
+                    "flight_id": "D82703",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T13:35:00Z",
+                    "arr_dep": "D",
+                    "airport": "HEL",
+                    "check_in": "1 2/3",
+                    "gate": "E9"
+                },
+                {
+                    "@uniqueID": "10918648",
+                    "airline": "W6",
+                    "flight_id": "W65034",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T13:35:00Z",
+                    "arr_dep": "D",
+                    "airport": "KRK",
+                    "check_in": "5",
+                    "gate": "D11",
+                    "status": {
+                        "@code": "E",
+                        "@time": "2022-08-15T15:00:00Z"
+                    },
+                    "delayed": "Y"
+                },
+                {
+                    "@uniqueID": "10850058",
+                    "airline": "DY",
+                    "flight_id": "DY758",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T13:40:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3",
+                    "gate": "C4"
+                },
+                {
+                    "@uniqueID": "10850629",
+                    "airline": "DY",
+                    "flight_id": "DY1792",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T13:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "ALC",
+                    "check_in": "1 2/3",
+                    "gate": "E11",
+                    "status": {
+                        "@code": "E",
+                        "@time": "2022-08-15T14:00:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10850956",
+                    "airline": "QR",
+                    "flight_id": "QR176",
+                    "dom_int": "I",
+                    "schedule_time": "2022-08-15T13:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "DOH",
+                    "check_in": "10",
+                    "gate": "F34"
+                },
+                {
+                    "@uniqueID": "10850561",
+                    "airline": "DY",
+                    "flight_id": "DY1718",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T13:50:00Z",
+                    "arr_dep": "D",
+                    "airport": "MAD",
+                    "check_in": "1 2/3",
+                    "gate": "E8"
+                },
+                {
+                    "@uniqueID": "10850876",
+                    "airline": "DY",
+                    "flight_id": "DY1884",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T13:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "ATH",
+                    "check_in": "1 2/3",
+                    "gate": "D6"
+                },
+                {
+                    "@uniqueID": "10849275",
+                    "airline": "DX",
+                    "flight_id": "DX566",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T13:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "OLA",
+                    "check_in": "5",
+                    "gate": "A24"
+                },
+                {
+                    "@uniqueID": "10850821",
+                    "airline": "FS",
+                    "flight_id": "FS416",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "TOS",
+                    "check_in": "1 2/3",
+                    "gate": "C9"
+                },
+                {
+                    "@uniqueID": "10849151",
+                    "airline": "WF",
+                    "flight_id": "WF153",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "OSL",
+                    "via_airport": "SDN,SOG",
+                    "check_in": "5",
+                    "gate": "A25"
+                },
+                {
+                    "@uniqueID": "10850690",
+                    "airline": "SK",
+                    "flight_id": "SK4094",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "EVE",
+                    "check_in": "1 2/3",
+                    "gate": "A14",
+                    "status": {
+                        "@code": "E",
+                        "@time": "2022-08-15T14:05:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10850670",
+                    "airline": "SK",
+                    "flight_id": "SK4035",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "SVG",
+                    "check_in": "1 2/3",
+                    "gate": "A15"
+                },
+                {
+                    "@uniqueID": "10850519",
+                    "airline": "SK",
+                    "flight_id": "SK882",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T14:05:00Z",
+                    "arr_dep": "D",
+                    "airport": "ARN",
+                    "check_in": "1 2/3",
+                    "gate": "D3"
+                },
+                {
+                    "@uniqueID": "10830371",
+                    "airline": "FS",
+                    "flight_id": "FS7034",
+                    "dom_int": "I",
+                    "schedule_time": "2022-08-15T14:10:00Z",
+                    "arr_dep": "D",
+                    "airport": "LYR",
+                    "check_in": "1 2/3",
+                    "gate": "F15"
+                },
+                {
+                    "@uniqueID": "10849601",
+                    "airline": "W6",
+                    "flight_id": "W62418",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T14:10:00Z",
+                    "arr_dep": "D",
+                    "airport": "BUD",
+                    "check_in": "5",
+                    "gate": "E12",
+                    "status": {
+                        "@code": "E",
+                        "@time": "2022-08-15T15:30:00Z"
+                    },
+                    "delayed": "Y"
+                },
+                {
+                    "@uniqueID": "10858825",
+                    "airline": "AF",
+                    "flight_id": "AF4143",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T14:15:00Z",
+                    "arr_dep": "D",
+                    "airport": "CDG",
+                    "check_in": "1",
+                    "gate": "E13"
+                },
+                {
+                    "@uniqueID": "10849450",
+                    "airline": "DX",
+                    "flight_id": "DX574",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:15:00Z",
+                    "arr_dep": "D",
+                    "airport": "FRO",
+                    "check_in": "5",
+                    "gate": "A27"
+                },
+                {
+                    "@uniqueID": "10850020",
+                    "airline": "DY",
+                    "flight_id": "DY620",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:20:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "check_in": "1 2/3",
+                    "gate": "A10"
+                },
+                {
+                    "@uniqueID": "10849282",
+                    "airline": "SK",
+                    "flight_id": "SK358",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:20:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3",
+                    "gate": "B1"
+                },
+                {
+                    "@uniqueID": "10850102",
+                    "airline": "DY",
+                    "flight_id": "DY760",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:20:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3",
+                    "gate": "A19"
+                },
+                {
+                    "@uniqueID": "10849921",
+                    "airline": "DY",
+                    "flight_id": "DY538",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:20:00Z",
+                    "arr_dep": "D",
+                    "airport": "SVG",
+                    "check_in": "1 2/3",
+                    "gate": "A12"
+                },
+                {
+                    "@uniqueID": "10850858",
+                    "airline": "SK",
+                    "flight_id": "SK4745",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T14:25:00Z",
+                    "arr_dep": "D",
+                    "airport": "BRU",
+                    "check_in": "1 2/3",
+                    "gate": "E2"
+                },
+                {
+                    "@uniqueID": "10850711",
+                    "airline": "SK",
+                    "flight_id": "SK4424",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:25:00Z",
+                    "arr_dep": "D",
+                    "airport": "TOS",
+                    "check_in": "1 2/3",
+                    "gate": "C5",
+                    "status": {
+                        "@code": "E",
+                        "@time": "2022-08-15T14:40:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10850887",
+                    "airline": "D8",
+                    "flight_id": "D84116",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T14:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "ARN",
+                    "check_in": "1 2/3",
+                    "gate": "E9"
+                },
+                {
+                    "@uniqueID": "10850610",
+                    "airline": "FS",
+                    "flight_id": "FS218",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3",
+                    "gate": "A21"
+                },
+                {
+                    "@uniqueID": "10849932",
+                    "airline": "DY",
+                    "flight_id": "DY430",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "MOL",
+                    "check_in": "1 2/3",
+                    "gate": "B7"
+                },
+                {
+                    "@uniqueID": "10849777",
+                    "airline": "DY",
+                    "flight_id": "DY190",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "HAU",
+                    "check_in": "1 2/3",
+                    "gate": "A16"
+                },
+                {
+                    "@uniqueID": "10850520",
+                    "airline": "SK",
+                    "flight_id": "SK827",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T14:35:00Z",
+                    "arr_dep": "D",
+                    "airport": "AMS",
+                    "check_in": "1 2/3",
+                    "gate": "D2"
+                },
+                {
+                    "@uniqueID": "10850509",
+                    "airline": "SK",
+                    "flight_id": "SK839",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T14:35:00Z",
+                    "arr_dep": "D",
+                    "airport": "CDG",
+                    "check_in": "1 2/3",
+                    "gate": "D7",
+                    "status": {
+                        "@code": "E",
+                        "@time": "2022-08-15T14:40:00Z"
+                    }
+                },
+                {
+                    "@uniqueID": "10849246",
+                    "airline": "WF",
+                    "flight_id": "WF175",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "via_airport": "HOV",
+                    "check_in": "5",
+                    "gate": "A26"
+                },
+                {
+                    "@uniqueID": "10850870",
+                    "airline": "DY",
+                    "flight_id": "DY1872",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T14:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "FCO",
+                    "check_in": "1 2/3",
+                    "gate": "E12"
+                },
+                {
+                    "@uniqueID": "10849699",
+                    "airline": "SK",
+                    "flight_id": "SK316",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T14:50:00Z",
+                    "arr_dep": "D",
+                    "airport": "HAU",
+                    "check_in": "1 2/3",
+                    "gate": "B3"
+                },
+                {
+                    "@uniqueID": "10849592",
+                    "airline": "BA",
+                    "flight_id": "BA767",
+                    "dom_int": "I",
+                    "schedule_time": "2022-08-15T14:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "LHR",
+                    "check_in": "4",
+                    "gate": "F31"
+                },
+                {
+                    "@uniqueID": "10850535",
+                    "airline": "SK",
+                    "flight_id": "SK1326",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "AES",
+                    "check_in": "1 2/3",
+                    "gate": "A22"
+                },
+                {
+                    "@uniqueID": "10849950",
+                    "airline": "DY",
+                    "flight_id": "DY622",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "check_in": "1 2/3",
+                    "gate": "C8"
+                },
+                {
+                    "@uniqueID": "10850508",
+                    "airline": "SK",
+                    "flight_id": "SK818",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T15:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "DUS",
+                    "check_in": "1 2/3",
+                    "status": {
+                        "@code": "C"
+                    }
+                },
+                {
+                    "@uniqueID": "10850453",
+                    "airline": "SK",
+                    "flight_id": "SK364",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3",
+                    "gate": "A8"
+                },
+                {
+                    "@uniqueID": "10849807",
+                    "airline": "DY",
+                    "flight_id": "DY276",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "KRS",
+                    "check_in": "1 2/3",
+                    "gate": "A20"
+                },
+                {
+                    "@uniqueID": "10850064",
+                    "airline": "DY",
+                    "flight_id": "DY762",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3",
+                    "gate": "A15"
+                },
+                {
+                    "@uniqueID": "10849280",
+                    "airline": "SK",
+                    "flight_id": "SK221",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "KRS",
+                    "check_in": "1 2/3",
+                    "gate": "A2"
+                },
+                {
+                    "@uniqueID": "10849606",
+                    "airline": "SK",
+                    "flight_id": "SK277",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "check_in": "1 2/3",
+                    "gate": "A4"
+                },
+                {
+                    "@uniqueID": "10849907",
+                    "airline": "DY",
+                    "flight_id": "DY382",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:10:00Z",
+                    "arr_dep": "D",
+                    "airport": "TOS",
+                    "check_in": "1 2/3",
+                    "gate": "A6"
+                },
+                {
+                    "@uniqueID": "10924125",
+                    "airline": "SK",
+                    "flight_id": "SK811",
+                    "dom_int": "I",
+                    "schedule_time": "2022-08-15T15:10:00Z",
+                    "arr_dep": "D",
+                    "airport": "LHR",
+                    "check_in": "1 2/3",
+                    "gate": "F26"
+                },
+                {
+                    "@uniqueID": "10850563",
+                    "airline": "SK",
+                    "flight_id": "SK1465",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T15:15:00Z",
+                    "arr_dep": "D",
+                    "airport": "CPH",
+                    "check_in": "1 2/3",
+                    "gate": "E6"
+                },
+                {
+                    "@uniqueID": "10850695",
+                    "airline": "SK",
+                    "flight_id": "SK4043",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:15:00Z",
+                    "arr_dep": "D",
+                    "airport": "SVG",
+                    "check_in": "1 2/3",
+                    "gate": "A23"
+                },
+                {
+                    "@uniqueID": "10850024",
+                    "airline": "AY",
+                    "flight_id": "AY916",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T15:15:00Z",
+                    "arr_dep": "D",
+                    "airport": "HEL",
+                    "check_in": "4",
+                    "gate": "E13"
+                },
+                {
+                    "@uniqueID": "10849562",
+                    "airline": "A3",
+                    "flight_id": "A3757",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T15:15:00Z",
+                    "arr_dep": "D",
+                    "airport": "ATH",
+                    "check_in": "5",
+                    "gate": "D9"
+                },
+                {
+                    "@uniqueID": "10849891",
+                    "airline": "DY",
+                    "flight_id": "DY540",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:20:00Z",
+                    "arr_dep": "D",
+                    "airport": "SVG",
+                    "check_in": "1 2/3",
+                    "gate": "C6"
+                },
+                {
+                    "@uniqueID": "10917365",
+                    "airline": "KL",
+                    "flight_id": "KL1148",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T15:20:00Z",
+                    "arr_dep": "D",
+                    "airport": "AMS",
+                    "check_in": "1",
+                    "gate": "E2"
+                },
+                {
+                    "@uniqueID": "10850883",
+                    "airline": "DY",
+                    "flight_id": "DY1976",
+                    "dom_int": "I",
+                    "schedule_time": "2022-08-15T15:25:00Z",
+                    "arr_dep": "D",
+                    "airport": "BEG",
+                    "check_in": "1 2/3",
+                    "gate": "F14"
+                },
+                {
+                    "@uniqueID": "10849202",
+                    "airline": "WF",
+                    "flight_id": "WF155",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "via_airport": "SOG",
+                    "check_in": "5",
+                    "gate": "A27"
+                },
+                {
+                    "@uniqueID": "10850163",
+                    "airline": "DY",
+                    "flight_id": "DY948",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T15:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "CPH",
+                    "check_in": "1 2/3",
+                    "gate": "E11"
+                },
+                {
+                    "@uniqueID": "10850853",
+                    "airline": "AF",
+                    "flight_id": "AF1775",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T15:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "CDG",
+                    "check_in": "1",
+                    "gate": "D10"
+                },
+                {
+                    "@uniqueID": "10850693",
+                    "airline": "SK",
+                    "flight_id": "SK4122",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "BOO",
+                    "check_in": "1 2/3",
+                    "gate": "A14"
+                },
+                {
+                    "@uniqueID": "10850833",
+                    "airline": "SK",
+                    "flight_id": "SK4524",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:35:00Z",
+                    "arr_dep": "D",
+                    "airport": "MOL",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849122",
+                    "airline": "SK",
+                    "flight_id": "SK1921",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T15:40:00Z",
+                    "arr_dep": "D",
+                    "airport": "AAL",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849988",
+                    "airline": "DY",
+                    "flight_id": "DY624",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:40:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850105",
+                    "airline": "DY",
+                    "flight_id": "DY764",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:40:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849720",
+                    "airline": "FS",
+                    "flight_id": "FS120",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849318",
+                    "airline": "WF",
+                    "flight_id": "WF195",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "FDE",
+                    "check_in": "5"
+                },
+                {
+                    "@uniqueID": "10850792",
+                    "airline": "FS",
+                    "flight_id": "FS316",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "SVG",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850582",
+                    "airline": "FS",
+                    "flight_id": "FS220",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849859",
+                    "airline": "DY",
+                    "flight_id": "DY350",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "BOO",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850424",
+                    "airline": "FS",
+                    "flight_id": "FS1066",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T15:50:00Z",
+                    "arr_dep": "D",
+                    "airport": "ARN",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849872",
+                    "airline": "DY",
+                    "flight_id": "DY414",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "AES",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850786",
+                    "airline": "SK",
+                    "flight_id": "SK4478",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "KKN",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849927",
+                    "airline": "DY",
+                    "flight_id": "DY366",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T15:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "EVE",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849490",
+                    "airline": "FS",
+                    "flight_id": "FS454",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T16:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "EVE",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10915350",
+                    "airline": "SN",
+                    "flight_id": "SN2284",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T16:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "BRU",
+                    "check_in": "4"
+                },
+                {
+                    "@uniqueID": "10850177",
+                    "airline": "DY",
+                    "flight_id": "DY822",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T16:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "ARN",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849616",
+                    "airline": "SK",
+                    "flight_id": "SK281",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T16:05:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850104",
+                    "airline": "TK",
+                    "flight_id": "TK1754",
+                    "dom_int": "I",
+                    "schedule_time": "2022-08-15T16:15:00Z",
+                    "arr_dep": "D",
+                    "airport": "IST",
+                    "check_in": "10",
+                    "status": {
+                        "@code": "E",
+                        "@time": "2022-08-15T16:35:00Z"
+                    },
+                    "delayed": "Y"
+                },
+                {
+                    "@uniqueID": "10850426",
+                    "airline": "DY",
+                    "flight_id": "DY1150",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T16:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "DUS",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850339",
+                    "airline": "DY",
+                    "flight_id": "DY1108",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T16:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "BER",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850886",
+                    "airline": "D8",
+                    "flight_id": "D83240",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T16:40:00Z",
+                    "arr_dep": "D",
+                    "airport": "CPH",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850744",
+                    "airline": "SK",
+                    "flight_id": "SK4434",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T16:40:00Z",
+                    "arr_dep": "D",
+                    "airport": "ALF",
+                    "via_airport": "TOS",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850460",
+                    "airline": "DY",
+                    "flight_id": "DY1310",
+                    "dom_int": "I",
+                    "schedule_time": "2022-08-15T16:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "LGW",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10924091",
+                    "airline": "LH",
+                    "flight_id": "LH867",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T16:50:00Z",
+                    "arr_dep": "D",
+                    "airport": "FRA",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850029",
+                    "airline": "DY",
+                    "flight_id": "DY632",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850055",
+                    "airline": "DY",
+                    "flight_id": "DY768",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849952",
+                    "airline": "DY",
+                    "flight_id": "DY546",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "SVG",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850425",
+                    "airline": "DY",
+                    "flight_id": "DY1258",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T17:05:00Z",
+                    "arr_dep": "D",
+                    "airport": "AMS",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850437",
+                    "airline": "DY",
+                    "flight_id": "DY1348",
+                    "dom_int": "I",
+                    "schedule_time": "2022-08-15T17:10:00Z",
+                    "arr_dep": "D",
+                    "airport": "MAN",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849856",
+                    "airline": "FH",
+                    "flight_id": "FH224",
+                    "dom_int": "I",
+                    "schedule_time": "2022-08-15T17:10:00Z",
+                    "arr_dep": "D",
+                    "airport": "AYT",
+                    "check_in": "10"
+                },
+                {
+                    "@uniqueID": "10849531",
+                    "airline": "DX",
+                    "flight_id": "DX548",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:15:00Z",
+                    "arr_dep": "D",
+                    "airport": "SRP",
+                    "check_in": "5"
+                },
+                {
+                    "@uniqueID": "10917372",
+                    "airline": "KL",
+                    "flight_id": "KL1150",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T17:15:00Z",
+                    "arr_dep": "D",
+                    "airport": "AMS",
+                    "check_in": "1"
+                },
+                {
+                    "@uniqueID": "10850657",
+                    "airline": "FS",
+                    "flight_id": "FS222",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:20:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850584",
+                    "airline": "SK",
+                    "flight_id": "SK2305",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:20:00Z",
+                    "arr_dep": "D",
+                    "airport": "KSU",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850250",
+                    "airline": "DY",
+                    "flight_id": "DY1042",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T17:20:00Z",
+                    "arr_dep": "D",
+                    "airport": "KRK",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849610",
+                    "airline": "BT",
+                    "flight_id": "BT154",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T17:25:00Z",
+                    "arr_dep": "D",
+                    "airport": "RIX",
+                    "check_in": "4"
+                },
+                {
+                    "@uniqueID": "10850388",
+                    "airline": "DY",
+                    "flight_id": "DY1060",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T17:25:00Z",
+                    "arr_dep": "D",
+                    "airport": "TLL",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850919",
+                    "airline": "LH",
+                    "flight_id": "LH2455",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T17:25:00Z",
+                    "arr_dep": "D",
+                    "airport": "MUC",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850839",
+                    "airline": "FS",
+                    "flight_id": "FS418",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "TOS",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849474",
+                    "airline": "FS",
+                    "flight_id": "FS122",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850463",
+                    "airline": "SK",
+                    "flight_id": "SK370",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849256",
+                    "airline": "WF",
+                    "flight_id": "WF177",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:35:00Z",
+                    "arr_dep": "D",
+                    "airport": "HOV",
+                    "check_in": "5"
+                },
+                {
+                    "@uniqueID": "10850709",
+                    "airline": "SK",
+                    "flight_id": "SK4124",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:35:00Z",
+                    "arr_dep": "D",
+                    "airport": "BOO",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850982",
+                    "airline": "WF",
+                    "flight_id": "WF038",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:35:00Z",
+                    "arr_dep": "D",
+                    "airport": "RRS",
+                    "check_in": "5"
+                },
+                {
+                    "@uniqueID": "10850530",
+                    "airline": "SK",
+                    "flight_id": "SK886",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T17:40:00Z",
+                    "arr_dep": "D",
+                    "airport": "ARN",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849863",
+                    "airline": "DY",
+                    "flight_id": "DY278",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:40:00Z",
+                    "arr_dep": "D",
+                    "airport": "KRS",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849296",
+                    "airline": "SK",
+                    "flight_id": "SK223",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:40:00Z",
+                    "arr_dep": "D",
+                    "airport": "KRS",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849614",
+                    "airline": "ET",
+                    "flight_id": "ET715",
+                    "dom_int": "I",
+                    "schedule_time": "2022-08-15T17:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "ADD",
+                    "via_airport": "ARN",
+                    "check_in": "10"
+                },
+                {
+                    "@uniqueID": "10850534",
+                    "airline": "LO",
+                    "flight_id": "LO484",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T17:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "WAW",
+                    "check_in": "4"
+                },
+                {
+                    "@uniqueID": "10849852",
+                    "airline": "DY",
+                    "flight_id": "DY328",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T17:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "ALF",
+                    "via_airport": "TOS",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850243",
+                    "airline": "DY",
+                    "flight_id": "DY1010",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T17:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "WRO",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10915404",
+                    "airline": "N0",
+                    "flight_id": "N0001",
+                    "dom_int": "I",
+                    "schedule_time": "2022-08-15T17:50:00Z",
+                    "arr_dep": "D",
+                    "airport": "JFK",
+                    "check_in": "5"
+                },
+                {
+                    "@uniqueID": "10850395",
+                    "airline": "DY",
+                    "flight_id": "DY1072",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T17:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "RIX",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850196",
+                    "airline": "DY",
+                    "flight_id": "DY1054",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T17:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "GDN",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849701",
+                    "airline": "SK",
+                    "flight_id": "SK320",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T18:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "HAU",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850542",
+                    "airline": "SK",
+                    "flight_id": "SK1330",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T18:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "AES",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850736",
+                    "airline": "SK",
+                    "flight_id": "SK4432",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T18:05:00Z",
+                    "arr_dep": "D",
+                    "airport": "TOS",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849437",
+                    "airline": "DX",
+                    "flight_id": "DX576",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T18:15:00Z",
+                    "arr_dep": "D",
+                    "airport": "FRO",
+                    "check_in": "5"
+                },
+                {
+                    "@uniqueID": "10850072",
+                    "airline": "DY",
+                    "flight_id": "DY770",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T18:20:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850723",
+                    "airline": "FS",
+                    "flight_id": "FS318",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T18:25:00Z",
+                    "arr_dep": "D",
+                    "airport": "SVG",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850878",
+                    "airline": "VY",
+                    "flight_id": "VY8539",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T18:25:00Z",
+                    "arr_dep": "D",
+                    "airport": "BCN",
+                    "check_in": "5"
+                },
+                {
+                    "@uniqueID": "10849286",
+                    "airline": "SK",
+                    "flight_id": "SK380",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T18:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849224",
+                    "airline": "WF",
+                    "flight_id": "WF157",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T18:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "SDN",
+                    "via_airport": "SOG",
+                    "check_in": "5"
+                },
+                {
+                    "@uniqueID": "10849277",
+                    "airline": "SK",
+                    "flight_id": "SK291",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T18:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849815",
+                    "airline": "DY",
+                    "flight_id": "DY356",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T18:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "BOO",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849896",
+                    "airline": "DY",
+                    "flight_id": "DY418",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T18:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "AES",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849222",
+                    "airline": "SK",
+                    "flight_id": "SK4055",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T18:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "SVG",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850421",
+                    "airline": "AY",
+                    "flight_id": "AY918",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T18:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "HEL",
+                    "check_in": "4"
+                },
+                {
+                    "@uniqueID": "10850482",
+                    "airline": "SK",
+                    "flight_id": "SK397",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T18:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "BDU",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850547",
+                    "airline": "SK",
+                    "flight_id": "SK1475",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T18:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "CPH",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849825",
+                    "airline": "DY",
+                    "flight_id": "DY196",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T19:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "HAU",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849915",
+                    "airline": "DY",
+                    "flight_id": "DY368",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T19:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "EVE",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849887",
+                    "airline": "DY",
+                    "flight_id": "DY386",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T19:30:00Z",
+                    "arr_dep": "D",
+                    "airport": "TOS",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850438",
+                    "airline": "SK",
+                    "flight_id": "SK382",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T19:45:00Z",
+                    "arr_dep": "D",
+                    "airport": "TRD",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850598",
+                    "airline": "SK",
+                    "flight_id": "SK2309",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T19:50:00Z",
+                    "arr_dep": "D",
+                    "airport": "KSU",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10850652",
+                    "airline": "SK",
+                    "flight_id": "SK4051",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T19:50:00Z",
+                    "arr_dep": "D",
+                    "airport": "SVG",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849626",
+                    "airline": "SK",
+                    "flight_id": "SK295",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T19:50:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849389",
+                    "airline": "DY",
+                    "flight_id": "DY9010",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T19:55:00Z",
+                    "arr_dep": "D",
+                    "airport": "BDU",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849990",
+                    "airline": "DY",
+                    "flight_id": "DY638",
+                    "dom_int": "D",
+                    "schedule_time": "2022-08-15T20:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "BGO",
+                    "check_in": "1 2/3"
+                },
+                {
+                    "@uniqueID": "10849697",
+                    "airline": "W6",
+                    "flight_id": "W61784",
+                    "dom_int": "S",
+                    "schedule_time": "2022-08-15T20:00:00Z",
+                    "arr_dep": "D",
+                    "airport": "GDN",
+                    "check_in": "4"
+                }
+            ]
+        }
+    }
+}

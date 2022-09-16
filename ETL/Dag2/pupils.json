@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Test Testesen",
+        "grade": 5,
+        "address": {
+            "city": "Oslo",
+            "zipcode": "0366",
+            "street_name": "Bogstadveien",
+            "street_number": "75A"
+        },
+        "subjects": [
+            "ETL Intro",
+            "Python",
+            "Machine Learning"
+        ],
+        "birthdate": "1979-02-06"
+    },
+    {
+        "name": "Slask Slaskesen",
+        "grade": 2,
+        "address": {
+            "city": "Oslo",
+            "zipcode": "0570",
+            "street_name": "Camilla Collets Gate",
+            "street_number": "19C"
+        },
+        "subjects": [
+            "SQL Intor",
+            "Java"
+        ],
+        "birthdate": "1998-10-05"
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "name": "Test Testesen",
+    "grade": 5,
+    "address": {
+        "city": "Oslo",
+        "zipcode": "0366",
+        "street_name": "Bogstadveien",
+        "street_number": "75A"
+    },
+    "subjects": [
+        "ETL Intor",
+        "Python",
+        "Machine Learning"
+    ],
+    "birthdate": "1979-02-06"
+}

@@ -1,0 +1,16 @@
+body {
+	background-color: #393C61;
+}
+
+#container {
+	background-color: white;
+	width: 800px
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+#app-header-text {
+	background-color: #393C61
+	color: red;
+	text-align: center;
+}
